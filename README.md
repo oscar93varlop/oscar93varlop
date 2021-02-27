@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @oscar93varlop
-- 👀 I’m interested in #IaC, #DevOps, #Automation, #BashScripting #AWS
-- 🌱 I’m currently learning IaC and Python
-- 💞️ I’m looking to collaborate on automation over AWS
-- 📫 How to reach me ...
 
 <!---
 oscar93varlop/oscar93varlop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -11,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Oscar Vargas</h1>
 <h3 align="center">A passionate SysOps AWS from Colombia</h3>
 
-- 🌱 I’m currently learning **python, Cloudformation**
+- 🌱 I’m currently learning **python, Cloudformation, DevOps, BashScripting**
 
 - 💬 Ask me about **linux, automation, aws**
 
@@ -21,7 +16,8 @@ You can click the Preview link to take a look at your changes.
 <p align="left">
 <a href="https://linkedin.com/in/edin.com/in/oscar-vargas-lopez-362a51147/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="edin.com/in/oscar-vargas-lopez-362a51147/" height="30" width="40" /></a>
 <a href="https://instagram.com/@ecogeekco" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@ecogeekco" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/PCYcaPeQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/PCYcaPeQ" height="30" width="40" /></a>
+<a href="https://discord.gg/PCYcaPeQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/PCYcaPeQ" height="30" width="40" /></a>
+<a href="https://www.twitch.tv/ovl93" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitch.svg" alt="https://www.twitch.tv/ovl93" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
